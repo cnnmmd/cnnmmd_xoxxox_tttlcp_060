@@ -1,0 +1,14 @@
+{
+  "expert": "xoxxox/tttlcp_cmm061",
+  "conlog": "xoxxox/prompt_gem001",
+  "maxlog": 4,
+  "nmodel": "gemma-4-E4B-it-Q4_K_M.gguf",
+  "maxtkn": 1024,
+  "numtmp": 0.7,
+  "numtop": 0.9,
+  "numtrd": 4,
+  "numctx": 1024,
+  "numgpu": 0,
+  "chaend": ["<end_of_turn>"],
+  "status": "あなたは優れた助言者だ。いつも適切な答えを示してくれる。"
+}
