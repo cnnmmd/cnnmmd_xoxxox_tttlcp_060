@@ -24,6 +24,7 @@ function getmdl {
 }
 
 # https://huggingface.co/ggml-org/gemma-4-E2B-it-GGUF
-getmdl gemma-4-E2B-it-Q8_0.gguf   https://huggingface.co/ggml-org/gemma-4-E2B-it-GGUF/resolve/main/gemma-4-E2B-it-Q8_0.gguf
+getmdl gemma-4-E2B-it-Q8_0.gguf https://huggingface.co/ggml-org/gemma-4-E2B-it-GGUF/resolve/main/gemma-4-E2B-it-Q8_0.gguf
 # https://huggingface.co/ggml-org/gemma-4-E4B-it-GGUF
-getmdl gemma-4-E4B-it-Q4_K_M.gguf https://huggingface.co/ggml-org/gemma-4-E4B-it-GGUF/resolve/main/gemma-4-E4B-it-Q4_K_M.gguf
+getmdl gemma-4-E4B-it-Q4_0.gguf https://huggingface.co/ggml-org/gemma-4-E4B-it-GGUF/resolve/main/gemma-4-E4B-it-Q4_0.gguf
+#getmdl gemma-4-E4B-it-Q4_K_M.gguf https://huggingface.co/ggml-org/gemma-4-E4B-it-GGUF/resolve/main/gemma-4-E4B-it-Q4_K_M.gguf
