@@ -2,7 +2,7 @@
   "expert": "xoxxox/tttlcp_bra061",
   "conlog": "xoxxox/prompt_gem001",
   "maxlog": 4,
-  "nmodel": "gemma-4-E4B-it-Q4_K_M.gguf",
+  "nmodel": "gemma-4-E4B-it-Q4_0.gguf",
   "maxtkn": 1024,
   "numtmp": 0.7,
   "numtop": 0.9,
